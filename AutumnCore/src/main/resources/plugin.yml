@@ -1,0 +1,6 @@
+name: AutumnCore
+main: me.autumn.core.AutumnCorePlugin
+version: 1.0
+author: NoPants5
+
+commands:
